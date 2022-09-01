@@ -1,7 +1,7 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b/2000_600px.gif)](https://AbdulQadir33)
+[![MasterHead] (https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b/2000_600px.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abdul Qadir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" scr="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="Coding" width="400" scr="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"></img>
 
 
 
