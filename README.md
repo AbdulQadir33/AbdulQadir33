@@ -1,7 +1,7 @@
-[![MasterHead] (https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b/2000_600px.gif)] (https://AbdulQadir33.io)
+[![MasterHead] (https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)]
 <h1 align="center">Hi 👋, I'm Abdul Qadir</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" scr="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" >
+<img align="right" alt="Coding" width="400" scr="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulqadir33&label=Profile%20views&color=0e75b6&style=flat" alt="abdulqadir33" /> </p>
